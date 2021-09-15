@@ -1,4 +1,4 @@
-![I am aspiring Data Scientist. ](https://github.com/ShubhajitRC/ShubhajitRC/blob/main/Shubhajit_Banner.png)
+![I am aspiring Data Scientist. ](https://github.com/ShubhajitRC/ShubhajitRC/blob/main/Shubhajit_Banner.gif)
 
 ## Hi there 👋, my name is Shubhajit
 ### I am an aspiring Data Scientist. 
